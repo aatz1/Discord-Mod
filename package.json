@@ -1,0 +1,11 @@
+{
+  "name": "mima_bot",
+  "version": "1.0.0",
+  "description": "discord bot for adm in my discord sv",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "aatz1",
+  "license": "ISC"
+}
