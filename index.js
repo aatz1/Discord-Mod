@@ -3,6 +3,7 @@ const Discord = require('discord.js');
 const { prefix, token } = require('./config.json');
 require('colors')
 
+
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
 
@@ -33,4 +34,4 @@ client.on('message', message => {
 	}
 });
 
-client.login(token);
+client.login(token);	
