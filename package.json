@@ -4,7 +4,8 @@
   "description": "discord bot for adm in my discord sv",
   "main": "index.js",
   "scripts": {
-    "test": "none"
+    "start": "node index",
+    "dev": "nodemon index.js"
   },
   "author": "aatz1",
   "license": "ISC",
