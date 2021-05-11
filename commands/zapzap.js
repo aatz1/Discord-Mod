@@ -13,8 +13,8 @@ module.exports = {
 		} 
 		
 		voice.channel.join().then((connection) => {
-			connection.play(path.join(__dirname, 'zapzap.mp3'))
-		})
+			connection.play(path.join(__dirname, '../audios/zapzap.mp3'))
+			})
 		
 	}
 };
