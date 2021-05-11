@@ -10,7 +10,7 @@
   "author": "aatz1",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.5.0",
+    "@discordjs/opus": "github:discordjs/opus",
     "colors": "^1.4.0",
     "discord.js": "^12.5.3",
     "ffmpeg-static": "^4.3.0",
