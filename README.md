@@ -1,1 +1,1 @@
-# MiMA BOT
+# Discord Bot
